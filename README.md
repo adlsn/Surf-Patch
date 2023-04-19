@@ -8,12 +8,12 @@
 ---
 ## Results
 > Here are the surfpatch and GUI for this project:
-<div align=center>
-![SurfPatch software](video.gif)
+<div align='center'>
+<img src='video.gif'>
 </div>
-<div align=center>
-![](1.png)
+<div align='center'>
+<img src='1.png'>
 </div>
-<div align=center>
-![](2.png)
+<div align='center'>
+<img src='2.png'>
 </div>
